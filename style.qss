@@ -1,0 +1,13 @@
+QLabel {
+    color: #00ADB5;
+}
+MainWindow {
+    background-color: #222831;
+}
+QLineEdit {
+    border-radius: 5px;
+}
+QPushButton {
+    border-radius: 5px;
+    background-color: #393E46;
+}
